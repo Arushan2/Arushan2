@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I’m @Arushan
 
-<!--
-**Arushan2/Arushan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Technical Lead at Flipick.
+- Passionate about technology and leadership.
 
-Here are some ideas to get you started:
+## Contact Me
+You can reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Arushan2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arushan2&count_private=true&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arushan2&count_private=true&theme=radical)
+
+## Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arushan2&theme=radical)
+
+
+
+<!---
+Arushan2/Arushan2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
