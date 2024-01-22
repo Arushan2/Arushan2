@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @Arushan
 
-- Technical Lead at Flipick.
 - Passionate about technology and leadership.
 
 ## Contact Me
